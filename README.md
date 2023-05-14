@@ -2,21 +2,44 @@
 ## About me
 My name is : Pramruetai Surakhan
 You can call me : Ray
-## Skills
-Three or more...
+## Hard Skills
+Requirement Analytics
 
 ---
 
-Hyphens
+Functional Testing
 
 ***
 
-Asterisks
+UAT (User Acceptance Test)
 
 ___
 
-Underscores
-You can find examples
+Manual Testing
+
+***
+
+## Soft Skills
+Teamwork
+
+---
+
+Coordinating with others
+
+***
+
+Time Management
+
+___
+
+Adaptability
+
+***
+
+Decision Making
+
+***
+
 ## Courses
 fsd
 ## Examples of my work
