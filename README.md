@@ -54,5 +54,5 @@ Decision Making
 * Postman for API testing (Youtube)
 ## Examples of my work
 * The User requirement Specification [The User requirement Specification](https://drive.google.com/file/d/1DAuxn5HYKkYISMuIDvkrwZ1K2t8MPZbE/view?usp=sharing).
-* Functional Specification Document #1 [Functional Specification Document]().
-* Functional Specification Document #2 [Functional Specification Document]().
+* Functional Specification Document #1 [Functional Specification Document](https://drive.google.com/file/d/1HJ4CBgG8Dg9LRygdWD7Fes9722fp5Sk1/view?usp=sharing).
+* Functional Specification Document #2 [Functional Specification Document](https://drive.google.com/file/d/1eL80TbF4MCmlKcoYhuro6ywe55GqSSZo/view?usp=sharing).
