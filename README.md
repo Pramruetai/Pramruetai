@@ -53,6 +53,12 @@ Decision Making
 * Jira software (Youtube)
 * Postman for API testing (Youtube)
 
+## Tools
+* Office
+* MS visio
+* Draw.io
+* 
+
 
 ## Examples of my work
 * The User requirement Specification [The User requirement Specification](https://drive.google.com/file/d/1DAuxn5HYKkYISMuIDvkrwZ1K2t8MPZbE/view?usp=sharing).
