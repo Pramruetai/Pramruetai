@@ -47,20 +47,18 @@ Decision Making
 ***
 
 ## Courses/Learning :blue_book: :computer:
-- QA Software Testing (udemy) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-- Software Architectural Test Case Writing (Software park)
-- Testrail for create test cases and test suits(Youtube)
+- QA Software Testing ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- Software Architectural Test Case Writing (Software park) 
+- Testrail for create test cases and test suits ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   * know how to create test cases and test suits
-- Power BI
-  * 
-* Jira software (Youtube)
-
-* Postman for API testing (Youtube)
+- Jira software ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+  * know how to create project and bug report
+- Postman for API testing ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
+  * know how to get or post request
 
 ## Tools
 * ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 * ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
-* MS visio
 * Draw.io
 * ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
