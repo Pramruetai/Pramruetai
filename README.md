@@ -5,25 +5,12 @@ I have experience with manual software testing, such as create test scripts and 
 I am looking for professional development opportunities or the excitement of a new challenge.
 
 ## Hard Skills :thumbsup:
-Requirement Analytics
+- Requirement Analytics
+- Functional Testing
+- UAT (User Acceptance Test)
+- Manual Testing
+- SQL Database
 
----
-
-Functional Testing
-
-***
-
-UAT (User Acceptance Test)
-
-___
-
-Manual Testing
-
-***
-
-SQL Database
-
-***
 
 ## Soft Skills :point_left:
 Teamwork
