@@ -5,7 +5,7 @@ I have experience with manual software testing, such as create test scripts and 
 I am looking for professional development opportunities or the excitement of a new challenge.
 
 ## Hard Skills :thumbsup:
-- Requirement Analytics
+- Test case and Test scenario
 - Functional Testing
 - UAT (User Acceptance Test)
 - Manual Testing
@@ -13,25 +13,11 @@ I am looking for professional development opportunities or the excitement of a n
 
 
 ## Soft Skills :point_left:
-Teamwork
-
----
-
-Coordinating with others
-
-***
-
-Time Management
-
-___
-
-Adaptability
-
-***
-
-Decision Making
-
-***
+- Teamwork
+- Coordinating with others
+- Time Management
+- Adaptability
+- Decision Making
 
 ## Courses/Learning :blue_book: :computer:
 - QA Software Testing ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -42,6 +28,7 @@ Decision Making
   * know how to create project and bug report
 - Postman for API testing ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
   * know how to get or post request
+  * 
 
 ## Tools
 * ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -53,6 +40,4 @@ Decision Making
 
 
 ## Examples of my work :woman_technologist:
-* The User requirement Specification [The User requirement Specification
-* Functional Specification Document #1 [Functional Specification Document]
-* Functional Specification Document #2 [Functional Specification Document]
+
