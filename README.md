@@ -26,11 +26,11 @@ I am looking for professional development opportunities or the excitement of a n
   * know how to create test cases and test suits
 - Jira software ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   * know how to create project and bug report
-- Postman for API testing ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
-  * know how to get or post request
-  * 
+- Test Design in action 
 
 ## Tools
+* <img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white" />
+* <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
 * ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 * ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 * ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
