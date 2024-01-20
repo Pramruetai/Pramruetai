@@ -1,6 +1,6 @@
 
 ## About me :woman_office_worker:
-Currently I am working on software tester at Biolab company for 6 years.
+Currently I am working on software tester at AD Venture public company.
 I have experience with manual software testing, such as create test scripts and test scenarios.
 I am looking for professional development opportunities or the excitement of a new challenge.
 
@@ -14,7 +14,7 @@ I am looking for professional development opportunities or the excitement of a n
 
 ## Soft Skills :point_left:
 - Teamwork
-- Coordinating with others
+- Coordinating with team
 - Time Management
 - Adaptability
 - Decision Making
@@ -26,7 +26,8 @@ I am looking for professional development opportunities or the excitement of a n
   * know how to create test cases and test suits
 - Jira software ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   * know how to create project and bug report
-- Test Design in action 
+- Test Design in action
+- Postman API Testing
 
 ## Tools
 * <img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white" />
@@ -36,7 +37,6 @@ I am looking for professional development opportunities or the excitement of a n
 * ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 *  Draw.io
 *  K2 Software
-*  Power Bi
 
 
 ## Examples of my work :woman_technologist:
