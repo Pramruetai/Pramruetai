@@ -28,16 +28,15 @@ I am looking for professional development opportunities or the excitement of a n
   * know how to create project and bug report
 - Test Design in action
 - Postman API Testing
+- 
 
 ## Tools
 * <img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white" />
 * <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
-* ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 * ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
-* ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 *  Draw.io
 *  K2 Software
 
 
 ## Examples of my work :woman_technologist:
-[Link to test case exemple](https://docs.google.com/spreadsheets/d/1uFNQLBSErl52hMbCSvLaRJXwobkN_nKi/edit?usp=sharing&ouid=104397356613260240282&rtpof=true&sd=true)
+[Link to test case exemple](https://docs.google.com/spreadsheets/d/1u3R93lFHrEw6qa57G6_fuDifEeKmmTyY/edit?usp=sharing&ouid=104397356613260240282&rtpof=true&sd=true)
