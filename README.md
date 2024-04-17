@@ -28,7 +28,7 @@ I am looking for professional development opportunities or the excitement of a n
   * know how to create project and bug report
 - Test Design in action
 - Postman API Testing
-- 
+- Automation E2E Biz Process Test
 
 ## Tools
 * <img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white" />
